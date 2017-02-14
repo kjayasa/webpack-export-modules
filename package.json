@@ -1,9 +1,9 @@
 {
   "name": "webpack-export-modules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/kjayasa/webpack-export-modules",
   "description": "A webpack plugin to export modules globally",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "files": [
     "lib"
   ],
@@ -23,7 +23,7 @@
   },
   "author": {
     "name": "Jay",
-    "email": "jayk.me",
+    "email": "jay@jayk.me",
     "url": "http://jayk.me/"
   }
 }

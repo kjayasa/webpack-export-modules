@@ -1,5 +1,5 @@
  const webpack = require('webpack'),
-     ExportModulePlugin = require("../lib/");
+     ExportModulePlugin = require("../");
 
 let config={
      entry: {
